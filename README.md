@@ -1,6 +1,6 @@
-# Maker LED Matrix Display Arduino Library
+**This is an old library. Please use:** https://github.com/e-radionicacom/Maker-Display-Arduino-Library
 
-**This is an old library. Please use: https://github.com/e-radionicacom/Maker-Display-Arduino-Library **
+# Maker LED Matrix Display Arduino Library
 
 ## Description and details
 This library used to control e-radionica Maker LED Matrix Display module equipped with 32x9 or 64x9 LED matrix, ESP8266 with Arduino Bootloader, two or four IS31FL3731 Charleplexed LED controllers and a lithium battery charger.
